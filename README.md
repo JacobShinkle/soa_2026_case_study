@@ -1,4 +1,4 @@
-# soa_2026_case_study
+# SOA 2026 Case Study
 Actuaries in Space: The Pricing Frontier 
 Copyright © 2026 by the Society of Actuaries Research Institute. All rights reserved.
 Overview
